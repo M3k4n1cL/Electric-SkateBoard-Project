@@ -7,8 +7,10 @@ See the links to our research/design documents below:
 
 Research notes:
 https://docs.google.com/document/d/1sQthLFOjVZfYHkIrzcI5xa3F-dyJz8zku5sDgvbOKdY/edit?usp=sharing
+
 Design notes:
 https://docs.google.com/document/d/1kVg4GtrkCN0OMcnS2DF8uNYxym1Fe9iZ1yJxVqsdlic/edit?tab=t.0
+
 Parts list:
 https://docs.google.com/spreadsheets/d/11n7SuAiwx33QnKMx-dtpzYNv0WtfHh8PmAQFiRrywnQ/edit?usp=sharing
 
