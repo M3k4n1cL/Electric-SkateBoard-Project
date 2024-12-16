@@ -3,6 +3,15 @@
 This repository records the design process of our custom electric dinghy board. Our goal for this project is to practice designing and building complex systems that serve as experience to better solve engineering problems in the future.
 
 # R&D
+See the links to our research/design documents below:
+
+Research notes:
+https://docs.google.com/document/d/1sQthLFOjVZfYHkIrzcI5xa3F-dyJz8zku5sDgvbOKdY/edit?usp=sharing
+Design notes:
+https://docs.google.com/document/d/1kVg4GtrkCN0OMcnS2DF8uNYxym1Fe9iZ1yJxVqsdlic/edit?tab=t.0
+Parts list:
+https://docs.google.com/spreadsheets/d/11n7SuAiwx33QnKMx-dtpzYNv0WtfHh8PmAQFiRrywnQ/edit?usp=sharing
+
 In preparation for creating this board, we needed to investigate the different components of existing skateboards to plan our own board’s frame and electric component construction. Additionally, we brushed up on relevant design, manufacturing, and electronics knowledge in preparation for the build. 
 
 A skateboard frame has 3 main components: the board, trucks, and wheels. We have decided to manufacture the board and trucks, but purchase aftermarket skateboard wheels and bearings. We chose this approach to eliminate manufacturing tasks that would not be feasible/cost-effective within our time frame. Additionally, designing custom trucks gives us more freedom with mounting points for the motor and battery pack if needed. Finally, we wanted to build the board from scratch because it would allow us to personalize its shape, size, and visual elements.
@@ -15,4 +24,5 @@ Designing the different components will be done using SOLIDWORKS, so to practice
 
 # Prototyping
 Coming soon
+
 
