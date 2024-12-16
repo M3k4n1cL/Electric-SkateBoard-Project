@@ -1,4 +1,4 @@
-# SkateBoard-Planning-Project
+# Electric-Skateboard-Project
 This repository holds the planning details of an electric skateboard project.
 
 //description of project 
